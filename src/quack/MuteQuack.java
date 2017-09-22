@@ -1,3 +1,7 @@
+package quack;
+
+import quack.QuackBehavior;
+
 public class MuteQuack implements QuackBehavior {
     @Override
     public void quack() {
